@@ -1,0 +1,10 @@
+.header{
+	height: 100px;
+	width: 100px;
+	border: dotted;
+}
+
+.p{
+	font-style: bold;
+	font-size: 50;
+}
